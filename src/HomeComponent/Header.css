@@ -18,7 +18,7 @@ header
     width: 100%;
     max-width: 100%;
     text-align: left; 
-    height:100vh;
+    height:auto;
     overflow: hidden;
     padding: 100px 0px;
 }
